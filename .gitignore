@@ -2,4 +2,4 @@
 .gradle/
 $buildDir/
 build/
-.out/
+out/
